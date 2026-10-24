@@ -124,6 +124,9 @@ MiniMelody/
 ```
 <img width="733" height="542" alt="Screenshot from 2026-10-22 21-24-55" src="https://github.com/user-attachments/assets/f4202798-e0ca-4da3-8b41-2b2e3ffb1126" />
 
+<img width="539" height="492" alt="Screenshot from 2026-10-23 18-20-23" src="https://github.com/user-attachments/assets/9becc0a1-2025-43fd-83c1-17aaed6e447b" />
+
+
 
 ## 🔨 Build it yourself
 
