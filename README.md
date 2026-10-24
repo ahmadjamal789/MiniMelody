@@ -183,7 +183,7 @@ Released under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Made by **<Ahmad Adesoye>** · [GitHub](https://github.com/ahmadjamal789)
+Made by **Ahmad Adesoye** · [GitHub](https://github.com/ahmadjamal789)
 
 ---
 
