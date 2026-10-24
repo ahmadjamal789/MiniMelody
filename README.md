@@ -177,10 +177,6 @@ Plug in USB, wait for the display to light up, and press the keys. 🎶
 
 Ideas and improvements are welcome. Open an issue or a pull request.
 
-## 📄 License
-
-Released under the [MIT License](LICENSE).
-
 ## 👤 Author
 
 Made by **Ahmad Adesoye** · [GitHub](https://github.com/ahmadjamal789)
