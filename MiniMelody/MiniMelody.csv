@@ -1,5 +1,5 @@
 "Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
-"-?","1","Speaker pin","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
+"-?","1","Speaker","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
 "BTN_MODE?,BTN_OCT?,BTN_VOL?,KEY_A?,KEY_B?,KEY_C?,KEY_D?,KEY_E?,KEY_F?,KEY_G?,KEY_H?","11","320.01E11WHT","","","","","${EXCLUDE_FROM_POS_FILES}","320.01E11WHT:SW_320.01E11WHT",""
 "C1","1","10uF","","","","","${EXCLUDE_FROM_POS_FILES}","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",""
 "DS1","1","OLED_Display","","","","","${EXCLUDE_FROM_POS_FILES}","OLED_128X64_1.3_I2C:LCD_OLED_128X64_1.3_I2C",""
